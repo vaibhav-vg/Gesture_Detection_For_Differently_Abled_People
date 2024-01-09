@@ -43,12 +43,18 @@ Note: To enhance the accuracy and adapt the system to personal preferences, user
 
 Usage
 Clone the repository: git clone https://github.com/your-username/gesture-detection.git
+
 Install dependencies: pip install -r requirements.txt
+
 Follow the steps mentioned above for data collection, dataset creation, model training, and inference testing.
 Additional Features and Functionalities
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Gesture Logging: Option to log recognized gestures for further analysis or integration with other applications.
+
 Real-time Feedback: Provides visual or audio feedback in real-time for recognized gestures.
+
 Multi-Gesture Support: Recognizes and processes multiple gestures simultaneously for advanced interactions.
+
 API Integration: Allows developers to integrate the gesture detection functionality into their own applications.
 
 Contributing
